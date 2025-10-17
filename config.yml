@@ -1,0 +1,3 @@
+csv:
+  folder: "data"
+  filename: "BF_sample.csv"
